@@ -19,11 +19,11 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 
 ![](results/fig2v2.png)
 
-<p style="text-align:center;">Performance comparison among different cross-validation strategies that can be found in literature. A) random $k$-fold; B) clustering fold; C) fam-fold.</p>
+<center> Performance comparison among different cross-validation strategies that can be found in literature. A) random $k$-fold; B) clustering fold; C) fam-fold. </center>
 
 ![](results/fig4.png)
 
-<p style="text-align:center;">Performance comparison of mean performance with 95% confidence interval in A) human learned fold; B) similarity fold.</p>
+<center> Performance comparison of mean performance with 95% confidence interval in A) human learned fold; B) similarity fold.</center>
 
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_3_Distribution_canonical_connections_distances.ipynb) reproduces the comparison of distribution of canonical connections (GC, AU and GU) in 3 folds of the family fold.
 
