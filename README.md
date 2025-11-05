@@ -10,15 +10,13 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 
 ## Reproducing experimental results
 ### Distribution of structural distances
-[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/Figure_1_Distance_distributions.ipynb) reproduces the analysis of the distributions of testing to training structural distances for the different cross-validation strategies analyzed.
+[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_1_Distance_distributions.ipynb) reproduces the analysis of the distributions of testing to training structural distances for the different cross-validation strategies analyzed.
 
 ### Performance comparison on RNA folding
-[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/Figure_2_and_4_Methods_performance_comparisons.ipynb) shows the performance comparison among different cross-validation strategies that can be found in literature
-
-![](results/figures/Fig2_Random k-folds.pdf)
+[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_2_and_4_Methods_performance_comparisons.ipynb) shows the performance comparison among different cross-validation strategies that can be found in literature
 
 
-![](results/figures/fig1.jpg)
-![](fig2.jpg)
+![](results/fig1.jpg)
+![](results/fig2.jpg)
 
-[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/Figure_3_Distribution_canonical_connections_distances.ipynb) reproduces the comparison of distribution of canonical connections (GC, AU and GU) in 3 folds of the family fold.
+[This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_3_Distribution_canonical_connections_distances.ipynb) reproduces the comparison of distribution of canonical connections (GC, AU and GU) in 3 folds of the family fold.
