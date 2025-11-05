@@ -18,7 +18,7 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 ![](results/figures/Fig2_Random k-folds.pdf)
 
 
-![](fig1.jpg)
+![](results/figures/fig1.jpg)
 ![](fig2.jpg)
 
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/Figure_3_Distribution_canonical_connections_distances.ipynb) reproduces the comparison of distribution of canonical connections (GC, AU and GU) in 3 folds of the family fold.
