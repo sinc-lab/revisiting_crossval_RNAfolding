@@ -15,6 +15,9 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 ### Performance comparison on RNA folding
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/Figure_2_and_4_Methods_performance_comparisons.ipynb) shows the performance comparison among different cross-validation strategies that can be found in literature
 
+![](results/figures/Fig2_Random k-folds.pdf)
+
+
 ![](fig1.jpg)
 ![](fig2.jpg)
 
