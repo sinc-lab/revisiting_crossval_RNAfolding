@@ -4,7 +4,9 @@ This repository contains the data and source code for the manuscript *Revisiting
 
 In this work we revise existing cross-validation strategies for RNA secondary structure prediction: random k-fold, clustering fold and family fold. 
 
-We explain and analyze in detail the advantages and disadvantages of each one of them, additionally proposing two novel evaluation methodologies for testing: human-learned fold and similarity fold. All validation strategies are applied to state-of-the-art methods for RNA secondary structure prediction and comparative results are analyzed.
+We explain and analyze in detail the advantages and disadvantages of each one of them, additionally proposing two novel evaluation methodologies for testing: human-learned fold and similarity fold. 
+
+All validation strategies are applied to state-of-the-art methods for RNA secondary structure prediction and comparative results are analyzed.
 
 ## Reproducing experimental results
 ### Distribution of structural distances
