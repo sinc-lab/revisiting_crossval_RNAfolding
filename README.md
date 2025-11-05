@@ -12,11 +12,14 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 ### Distribution of structural distances
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_1_Distance_distributions.ipynb) reproduces the analysis of the distributions of testing to training structural distances for the different cross-validation strategies analyzed.
 
+![](results/fig1v2.png)
+
 ### Performance comparison on RNA folding
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_2_and_4_Methods_performance_comparisons.ipynb) shows the performance comparison among different cross-validation strategies that can be found in literature
 
-
-![](results/fig1.jpg)
-![](results/fig2.jpg)
+![](results/fig2v2.png)
+![](results/fig4.png)
 
 [This notebook](https://colab.research.google.com/github/sinc-lab/revisiting_crossval_rnafolding/blob/main/src/Figure_3_Distribution_canonical_connections_distances.ipynb) reproduces the comparison of distribution of canonical connections (GC, AU and GU) in 3 folds of the family fold.
+
+![](results/fig3.png)
