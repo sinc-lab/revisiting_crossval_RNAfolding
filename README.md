@@ -19,7 +19,7 @@ All validation strategies are applied to state-of-the-art methods for RNA second
 
 ![](results/fig2v2.png)
 
-<p style="text-align:center;"> Performance comparison among different cross-validation strategies that can be found in literature. A) random $k$-fold; B) clustering fold; C) fam-fold. </p>
+<p style="text-align:center;"> Performance comparison among existing cross-validation strategies. A) random $k$-fold; B) clustering fold; C) fam-fold. </p>
 
 ![](results/fig4.png)
 
